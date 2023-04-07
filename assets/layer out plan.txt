@@ -1,0 +1,10 @@
+
+main
+header
+section grid 1fr,3
+image- span two row div 1
+New- span two column div 2
+the bright div 3 -span two row( insert 2 div inside div 3) 
+last  - div 4 - span three row ( insert 3 div inside div 4) 
+
+
