@@ -209,6 +209,7 @@ button:hover {
     color: var(--soft-red);
 }
 
+/* Mobile View */
 
 @media (max-width:760px) {
 
@@ -236,6 +237,7 @@ button:hover {
         flex-direction: column;
         margin-top: 3em;
     }
+
     .card {
         margin: 1em 0;
     }
@@ -253,25 +255,28 @@ button:hover {
     }
 
     .sidebar {
-        position: absolute;
+        position: fixed;
         top: 0;
         right: 0;
         bottom: 0;
+        width: 250px;
         background-color: var(--main-background);
-        width: 200px;
-        transition: width 5s;
     }
 
     .sidebar-show {
         display: block;
     }
 
-    .sidebar:active + body {
-        opacity: 3;
+    .sidebar .cancel {
+        margin: 2em 0 0 13em;
     }
 
-    .sidebar .cancel {
-        margin: 2em 0 0 10em;
+    .close {
+        transition: all 0.5s;
+    }
+
+    .close:hover{
+        transform: rotate(255deg);
     }
 
     .sidebar-menu {
@@ -280,7 +285,7 @@ button:hover {
     }
 
     .sidebar-menu li {
-        margin: 0.8em 0; 
+        margin: 0.8em 0;
         font-size: 1em;
     }
 

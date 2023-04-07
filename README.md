@@ -14,8 +14,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/SoulOfMo/News-Homepage.git)
+- Live Site URL: [Live Site](https://soulofmo.github.io/News-Homepage/)
 
 ## My process
 
@@ -47,10 +45,6 @@ Users should be able to:
 - Vanilla JS
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -88,10 +82,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [@SoulOfMo](https://www.frontendmentor.io/profile/SoulOfmo)
 - Twitter - [@morin_sultan](https://www.twitter.com/morin_sultan?s=09)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
